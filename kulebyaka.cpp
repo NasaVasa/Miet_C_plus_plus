@@ -1,6 +1,6 @@
 #include "iostream"
 
 int main() {
-    std::cout << "SOSI HUY" << std::endl;
+    std::cout << "YA SOSI HUY" << std::endl;
     return 1;
 }
